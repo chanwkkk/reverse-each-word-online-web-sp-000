@@ -4,4 +4,4 @@ def reverse_each_word(string)
     array=[]
     array<<string.reverse
   end
-  
+  array.join
